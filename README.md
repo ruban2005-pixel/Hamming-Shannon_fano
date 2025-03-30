@@ -47,9 +47,9 @@ print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
-
-### Calculation
+### output
 ![image](https://github.com/user-attachments/assets/dc156e61-eceb-4a09-84a8-82fadd0f3df3)
+### Calculation
 ![WhatsApp Image 2025-03-30 at 21 28 08_6fc93649](https://github.com/user-attachments/assets/87f8d62c-fb9d-4569-8591-9d2a209dfd3c)
 ![WhatsApp Image 2025-03-30 at 21 28 09_4149d6b3](https://github.com/user-attachments/assets/bc9b1a4e-0b1f-407e-9da3-bc1cf91b1b56)
 
